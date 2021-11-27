@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @TeraStack-codes
-- 👀 I’m interested in nodjs and python coding and alson playing computer games
+- 👋 Hi, I’m @Technical Terabyte
+- 👀 I’m interested in nodjs and python coding and also playing computer games
 - 🌱 I’m currently learning nodejs
-- 📫 How to reach me - 
+- 📫 How to reach me - My Discord Server.
 
 <!---
 TeraStack-codes/TeraStack-codes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
