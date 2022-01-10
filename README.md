@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Technical Terabyte
 - 👀 I’m interested in nodjs and python coding and also playing computer games
-- 🌱 I’m currently learning nodejs
+- 🌱 I’m currently making a multi-purpose discord bot!
 - 📫 How to reach me - https://discord.gg/dcVDkHXEjy
 
 <!---
