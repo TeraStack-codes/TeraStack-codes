@@ -3,6 +3,7 @@
 - 🌱 I’m currently making a multi-purpose discord bot!
 - 📫 How to reach me - [Discord](https://discord.gg/dcVDkHXEjy) Gmail(terastackcodes@gmail.com)
 
+## 💬 You wanna talk for some reason? Sure!
 [![Discord Presence](https://lanyard.cnrad.dev/api/757279814360104980)](https://discord.com/users/757279814360104980)
 
 <!---
