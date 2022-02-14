@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @Technical Terabyte
-- 👀 I’m interested in nodjs and python coding and also playing computer games
-- 🌱 I’m currently making a multi-purpose discord bot!
-- 📫 How to reach me - [Discord](https://discord.gg/dcVDkHXEjy) Gmail(terastackcodes@gmail.com)
+<h1 align="center">Hi 👋🏿, I'm Cryptizism</h1>
+<h3 align="center">Student developer who has no idea what they wanna do.. (Like at all)</h3>
 
+## 👨🏿‍💻I code any type of project I just enjoy
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="15" height="15"/> </a> <a href="https://minecraft.net" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/minecraft_logo_icon_168974.png" alt="minecraft" width="15" height="15"/></a>[Automated Bedwars Tourney Bot](https://github.com/Cryptizism/Hypixel-Bedwars-Tourney-Bot)<br>*This bot does everything in the process of a tourney from making the bracket to inviting the players*<br><br>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="15" height="15"/> </a> <a href="https://minecraft.net" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/minecraft_logo_icon_168974.png" alt="minecraft" width="15" height="15"/></a>[Minecraft Skin Overlays](https://minecraft-overlay.herokuapp.com/)<br>*This websites lets user make their skins get an overlay ontop of them! (click name to visit website)*<br><br>
+<a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="16" height="16"/> </a> <a href="https://twitch.tv" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/twitch_logo_icon_170383.png" alt="twitch" width="16" height="16"/> </a> Twitch Guesses The Song<br>*A twitch intarctive game where chat tries to guess the name of the song which the streamer is playing on spotify*<br><br>
+<a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="16" height="16"/> </a> <a href="https://twitch.tv" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/twitch_logo_icon_170383.png" alt="twitch" width="16" height="16"/> </a> Golf on stream<br>*A twitch interactve game where chat tries to play golf and beat it under the timer*
 ## 💬 You wanna talk for some reason? Sure!
-[![Discord Presence](https://lanyard.cnrad.dev/api/757279814360104980)](https://discord.com/users/757279814360104980)
-
-<!---
-TeraStack-codes/TeraStack-codes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/155649008868524032)](https://discord.com/users/155649008868524032)
