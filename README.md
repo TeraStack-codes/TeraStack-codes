@@ -5,17 +5,19 @@
 <a href="https://discord.gg/dcVDkHXEjy"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20My%20Discord%20Server&color=orange" alt="Join Community Badge"/></a>
 ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/TeraStack?style=social?color=red)
 
+<div align=center>
 # About me 👀
 
->  A Learning Developer
-> 
->  Discord Bot Coder
-> 
->  Student
-> 
->  Minecraft Enthusiast
-> 
->  Verified Human
+`A Learning Developer`
+
+`Discord Bot Coder`
+
+`Student`
+
+`Minecraft Enthusiast`
+
+`Verified Human`
+
 
 # Special Links
 
@@ -27,10 +29,9 @@
 
 
 <a href="https://discord.gg/dcVDkHXEjy"><img src="https://img.shields.io/badge/TeraStack404-My%20Discord%20Acc-yellow?style=flat&color=blue" alt="Discord Acc"/></a>
+ 
+</div>
 
 
 
-
-```
-The End
-```
+`< The End                                            >`
